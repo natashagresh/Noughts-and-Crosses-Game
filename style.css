@@ -1,0 +1,39 @@
+h1{
+  size: 200px;
+  font-weight: 800;
+  display: block;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  text-align:center;
+  margin: 0 auto;
+}
+
+.reset-button {
+  padding-left:20px;
+  padding-right: 20px;
+  margin: 0 auto;
+  display: block;
+  font-weight: 500;
+  size: 100px;
+}
+
+#board{
+  padding-top: 30px;
+}
+
+.square{
+   width:200px;
+   height:200px;
+}
+
+.v{
+   border-left:10px solid pink;
+   border-right:10px solid pink;
+}
+
+.h{
+   border-top:10px solid pink;
+   border-bottom:10px solid pink;
+}
+
+
